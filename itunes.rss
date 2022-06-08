@@ -9,9 +9,22 @@
     <itunes:subtitle>Книги на татарском языке</itunes:subtitle>
     <description>Татарча китаплар.</description>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://radio-t.com/images/cover.jpg" />
+    <itunes:image href="https://www.litres.ru/static/copyrights_logo/9360204_640.jpg" />
     <itunes:keywords>татарча,татарском,tatar,әкият,китап</itunes:keywords>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.rucast.net/tatkniga" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="tatkniga" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>© ГУП РТ "Татарское книжное издательство".</media:copyright><media:thumbnail url="https://radio-t.com/images/cover.jpg" /><media:keywords>татарча,татарском,tatar,әкият,китап</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Arts/Books</media:category><itunes:owner><itunes:email>tki@tatkniga.ru</itunes:email><itunes:name>Центр татарской литературы</itunes:name></itunes:owner><itunes:summary>Татарча китаплар</itunes:summary><itunes:category text="Arts"><itunes:category text="Books" /></itunes:category>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.rucast.net/tatkniga" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="tatkniga" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>© ГУП РТ "Татарское книжное издательство".</media:copyright><media:thumbnail url="https://www.litres.ru/static/copyrights_logo/9360204_640.jpg" /><media:keywords>татарча,татарском,tatar,әкият,китап</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Arts/Books</media:category><itunes:owner><itunes:email>tki@tatkniga.ru</itunes:email><itunes:name>Центр татарской литературы</itunes:name></itunes:owner><itunes:summary>Татарча китаплар</itunes:summary><itunes:category text="Arts"><itunes:category text="Books" /></itunes:category>
+
+    <item>
+      <title>Су анасы</title>
+      <description>Габдулла Тукай, Су анасы</description>
+      <link>https://tatkniga.ru/books/106360</link>
+      <guid>https://tatkniga.ru/books/106360</guid>
+      <pubDate>Sat, 08 Jun 2022 19:02:47 EST</pubDate>
+      <itunes:author>Центр татарской литературы</itunes:author>
+      <itunes:summary>Габдулла Тукай, Су анасы</itunes:summary>
+      <itunes:image href="https://tatkniga.ru/upload/images/books/cover/img_b1.jpg" />
+      <enclosure url="https://cdn.tatkniga.ru/media-book/mp3/gabdulla-tuqay/tatkniga-ru-su-anasy.mp3" type="audio/mp3" />
+    <author>tki@tatkniga.ru (Центр татарской литературы)</author><media:content url="https://cdn.tatkniga.ru/media-book/mp3/gabdulla-tuqay/tatkniga-ru-su-anasy.mp3" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Книги на татарском языке</itunes:subtitle><itunes:keywords>татарча,татарском,tatar,әкият,китап</itunes:keywords></item>
+
     <item>
       <title>Кәҗә белән Сарык</title>
       <description>Габдулла Тукай, Кәҗә белән Сарык</description>
@@ -21,8 +34,8 @@
       <itunes:author>Центр татарской литературы</itunes:author>
       <itunes:summary>Габдулла Тукай, Кәҗә белән Сарык</itunes:summary>
       <itunes:image href="https://tatkniga.ru/upload/images/books/cover/img_b3.jpg" />
-      <enclosure url="https://cdn.tatkniga.ru/media-book/mp3/gabdulla-tuqay/tatkniga-ru-keje-belen-saryk.mp3" type="audio/mp3" length="142549887" />
-    <author>tki@tatkniga.ru (Центр татарской литературы)</author><media:content url="https://cdn.tatkniga.ru/media-book/mp3/gabdulla-tuqay/tatkniga-ru-keje-belen-saryk.mp3" fileSize="142549887" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Книги на татарском языке</itunes:subtitle><itunes:keywords>татарча,татарском,tatar,әкият,китап</itunes:keywords></item>
+      <enclosure url="https://cdn.tatkniga.ru/media-book/mp3/gabdulla-tuqay/tatkniga-ru-keje-belen-saryk.mp3" type="audio/mp3" />
+    <author>tki@tatkniga.ru (Центр татарской литературы)</author><media:content url="https://cdn.tatkniga.ru/media-book/mp3/gabdulla-tuqay/tatkniga-ru-keje-belen-saryk.mp3" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Книги на татарском языке</itunes:subtitle><itunes:keywords>татарча,татарском,tatar,әкият,китап</itunes:keywords></item>
 
   <media:credit role="author">Центр татарской литературы</media:credit><media:rating>nonadult</media:rating><media:description type="plain">Татарча китаплар</media:description></channel>
 </rss>
