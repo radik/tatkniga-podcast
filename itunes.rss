@@ -15,6 +15,23 @@
 
     <!-- Next book placeholder -->
     <item>
+      <title>Кәҗүл читек</title>
+      <description>Гаяз Исхакый, Кәҗүл читек</description>
+      <link>https://tatkniga.ru/books/106374</link>
+      <guid>https://tatkniga.ru/books/106374</guid>
+      <pubDate>Sun, 24 Jun 2022 22:58:47 EST</pubDate>
+      <itunes:author>Центр татарской литературы</itunes:author>
+      <itunes:summary>Гаяз Исхакый, Кәҗүл читек</itunes:summary>
+      <itunes:image href="https://tatkniga.ru/upload/images/books/cover/img_b16.jpg" />
+      <enclosure url="https://cdn.tatkniga.ru/media-book/mp3/tatkniga-ru-iskhaky-kajyl-chitek.mp3" type="audio/mp3" />
+      <author>tki@tatkniga.ru (Центр татарской литературы)</author>
+      <media:content url="https://cdn.tatkniga.ru/media-book/mp3/tatkniga-ru-iskhaky-kajyl-chitek.mp3" type="audio/mp3" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Книги на татарском языке</itunes:subtitle>
+      <itunes:keywords>татарча,татарском,tatar,әкият,китап</itunes:keywords>
+    </item>
+
+    <item>
       <title>Матурлык</title>
       <description>Әмирхан Еники, Матурлык</description>
       <link>https://tatkniga.ru/books/106378</link>
